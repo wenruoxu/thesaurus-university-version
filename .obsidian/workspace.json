@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "791c6eeefd5e139f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5edd8247537d8ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c80db0fe9b52c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce623567b2fed497",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf5fd8e73842110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde4d52ad782da4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "256232dff04d9253",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:国家",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f42ede080cb32c4b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "11b2fb48c8fbe969",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d2cda60b8345dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af2b2a13683cb30d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45daa92b048b6b55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43fe0478a2b44e0f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": false,
+      "obsidian-tts:Text to Speech": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "25c80db0fe9b52c4",
+  "lastOpenFiles": [
+    "英语词义分类数据库（大学版）/00总目录（复习专用）/用途及注意事项.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/致谢名单.md",
+    "英语词义分类数据库（大学版）/00总目录（复习专用）/复习专用目录.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/其它说明.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/04勘误信息.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/05求助信息.md",
+    "英语词义分类数据库（大学版）/01基础领域/01政治/00政治组目录（复习）.md",
+    "英语词义分类数据库（大学版）/附件图片/4.jpg",
+    "英语词义分类数据库（大学版）/附件图片/3.jpg",
+    "英语词义分类数据库（大学版）/附件图片/2.jpg",
+    "英语词义分类数据库（大学版）/附件图片/1.jpg",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/06编者的故事.md",
+    "英语词义分类数据库（大学版）/附件图片/回家的火车.jpg",
+    "英语词义分类数据库（大学版）/附件图片/历程.jpg",
+    "英语词义分类数据库（大学版）/附件图片/壁纸.jpg",
+    "英语词义分类数据库（大学版）/附件图片/来那度胺.jpg",
+    "英语词义分类数据库（大学版）/附件图片/键盘.jpg",
+    "英语词义分类数据库（大学版）/附件图片/移植.jpg",
+    "英语词义分类数据库（大学版）/01基础领域/01政治/02国家 国土.md",
+    "英语词义分类数据库（大学版）/00总目录/000总目录全览.md",
+    "英语词义分类数据库（大学版）/01基础领域/02经济/01经济 金融.md",
+    "英语词义分类数据库（大学版）/41安危存亡/00安危存亡组目录（复习）.md",
+    "英语词义分类数据库（大学版）/01基础领域/01政治/01朝代 王国.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/01作品简介.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/02版权声明.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/03获取资料.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/07联系作者.md",
+    "英语词义分类数据库（大学版）/11生活相关/01衣着穿戴/01服装 衣裤.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/附：主要参考资料.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/补充：相关在线资源.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/08其它想说的话.md",
+    "英语词义分类数据库（大学版）/0本资料库基本信息/07编者的性格.md",
+    "英语词义分类数据库（大学版）/13心理情绪/00心理情绪组目录（复习）.md",
+    "英语词义分类数据库（大学版）/13心理情绪/01精神 心灵 意志 斗志 情结.md",
+    "英语词义分类数据库（大学版）/01基础领域/02经济/00经济组目录（复习）.md",
+    "英语词义分类数据库（大学版）/附件图片",
+    "英语词义分类数据库（大学版）/00总目录（复习专用）/特别感谢.md",
+    "英语词义分类数据库（大学版）/00总目录（复习专用）",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/42呈现隐藏",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/41安危存亡",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/40道德品质",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/39主客宾仆",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/38人际关系",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/37主动活动",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/36家务劳动",
+    "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/35基础运动"
+  ]
+}
