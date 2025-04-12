@@ -11,8 +11,24 @@
             "id": "25c80db0fe9b52c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "英语词义分类数据库（大学版）/00总目录/000总目录全览.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "000总目录全览"
+            }
+          },
+          {
+            "id": "88c6af3756fd4045",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -34,8 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -50,7 +69,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +79,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -81,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "英语词义分类数据库（大学版）/00总目录/000总目录全览.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "000总目录全览 的反向链接列表"
             }
           },
           {
@@ -98,8 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -107,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -132,6 +164,7 @@
   },
   "active": "25c80db0fe9b52c4",
   "lastOpenFiles": [
+    "英语词义分类数据库（大学版）/01基础领域/14体育/29场次 回合.md",
     "英语词义分类数据库（大学版）/00总目录（复习专用）/用途及注意事项.md",
     "英语词义分类数据库（大学版）/0本资料库基本信息/致谢名单.md",
     "英语词义分类数据库（大学版）/00总目录（复习专用）/复习专用目录.md",
@@ -168,7 +201,6 @@
     "英语词义分类数据库（大学版）/13心理情绪/01精神 心灵 意志 斗志 情结.md",
     "英语词义分类数据库（大学版）/01基础领域/02经济/00经济组目录（复习）.md",
     "英语词义分类数据库（大学版）/附件图片",
-    "英语词义分类数据库（大学版）/00总目录（复习专用）/特别感谢.md",
     "英语词义分类数据库（大学版）/00总目录（复习专用）",
     "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/42呈现隐藏",
     "英语词义分类数据库（大学版）/补丁2-组目录名后带（复习）/补丁/41安危存亡",
